@@ -4,7 +4,7 @@ Ordem de Instalação:
 
 Instalação Local, não usando a maquina virtual:
 
-### 1. Instalar o Python e adicionar o mesmo no path do windows;
+### 1. Instalarr o Python e adicionar o mesmo no path do windows;
 
 ### 2. Instalar o Selenium WebDriver;
 
